@@ -1,0 +1,63 @@
+
+.full-form{
+    background-color: black;
+    width: 348px;
+    padding: 25px 15px 20px 15px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+}
+.input-field{
+    width: 335px;
+    padding: 30px 2px;
+    margin-bottom: 20px;
+    background-color: #3d2b1f;
+    color: white;
+    border-radius: 8px;
+    font-size: 25px;
+	border:2px solid white;
+}
+.danger{
+    background-color: red;
+    width: 170px;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.top-right{
+    background-color: rgb(187, 185, 185);
+    padding: 5px 25px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+    margin:2px 2px;
+    width: 80px;
+}
+.top-right-corner{
+    background-color:indianred;
+    padding: 5px 25px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+    margin:2px 2px;
+    width: 80px;
+}
+.number{
+    background-color: rgb(187, 185, 185);
+    padding: 10px 25px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+    margin:2px 2px;
+    width: 80px;
+}
+.symbol{
+    background-color:indianred;
+    padding: 10px 25px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+    margin:2px 2px;
+    width: 80px;
+}
